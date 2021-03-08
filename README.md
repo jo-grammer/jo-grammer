@@ -3,7 +3,7 @@
 I'm a freelancing specialist currently developping my skills with Python, and Data Science. 
 While learning, I will be adding projects to my portfolio here. 
 
-    :point_down:
+   :point_down:
 
 * 🔭 I’m currently in the south of France
 * 🐍 Python & R enthusiast 📊
