@@ -1,4 +1,4 @@
-### Welcome, I'm João 👋
+###  Hi! I'm João 👋
 
 I'm a freelancing specialist currently developping my skills with Python, and Data Science. 
 While learning, I will be adding projects to my portfolio here. 
