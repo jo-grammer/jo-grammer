@@ -8,7 +8,7 @@ While learning, I will be adding projects to my portfolio here.
 * 🔭 I’m currently in the south of France
 * 🐍 Python & 📊 R enthusiast
 * 📫 How to reach me: [Twitter](https://www.twitter.com/jo_grammer)
-* ⚡ Fun fact: I love Dr. Pepper as much as Bill Gates loves diet Coca Cola
+* ⚡ Fun fact: Dr. Pepper is my fuel 
 * 💬 Ask me about anything
 
 
