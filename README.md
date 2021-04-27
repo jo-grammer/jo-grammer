@@ -19,7 +19,7 @@ Welcome to my Github profile, thank you for visiting !
  
  
  
-* 📫 How to reach me: 
+###### 📫 How to reach me: 
 
              👇
 
