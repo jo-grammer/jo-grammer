@@ -1,6 +1,8 @@
-###  Hi! I'm João 👋
+###  Hi There! I'm João 👋
 
-I'm a freelancing specialist currently developping my skills with Python, and Data Science. 
+Welcome to my Github profile, thank you for visiting !
+
+I'm a freelancing specialist passiontate about all things data, I am also a Python lover, and an aspiring Data Scientist. 
 While learning, I will be adding projects to my portfolio here. 
 
    :point_down:
