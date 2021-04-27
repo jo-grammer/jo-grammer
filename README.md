@@ -16,10 +16,13 @@ Welcome to my Github profile, thank you for visiting !
 * 🕺 I had an urban dance crew in college
 * ⚡ When I'm not coding, I'm either running or creating playlists
 * 🧉 Yerba Maté is my fuel  
+ *
  
  
 * 📫 How to reach me: [Twitter](https://www.twitter.com/jo_grammer)
 * 💬 Ask me about anything
+
+
 
 <!--
 **jo-grammer/jo-grammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
