@@ -8,7 +8,7 @@ Welcome to my Github profile, thank you for visiting !
 * 🔭 I'm a freelancing specialist, passionate about all things data
 * 🐍 A Python lover
 * 📊 An aspiring Data Scientist
-* 📚 Reading and learning is a must for me
+* 📚 Reading and learning is second nature to me
 
 
 #### Fun Facts:
