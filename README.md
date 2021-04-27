@@ -5,6 +5,7 @@ Welcome to my Github profile, thank you for visiting !
 I'm a freelancing specialist passiontate about all things data, I am also a Python lover, and an aspiring Data Scientist. 
 While learning, I will be adding projects to my portfolio here. 
 
+### About Me:
    :point_down:
 
 * 🔭 I’m currently in the south of France
