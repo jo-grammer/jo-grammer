@@ -19,7 +19,10 @@ Welcome to my Github profile, thank you for visiting !
  
  
  
-* 📫 How to reach me: [Twitter](https://www.twitter.com/jo_grammer)
+* 📫 How to reach me: 
+
+
+* 🕊[Twitter](https://www.twitter.com/jo_grammer)
 * 💬 Ask me about anything
 
 
