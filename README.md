@@ -1,6 +1,6 @@
 ###  Hi There! I'm João 👋
 
-Welcome to my Github profile, thank you for visiting !
+Welcome to my GitHub profile, thank you for visiting !
 
 #### About Me:
 
