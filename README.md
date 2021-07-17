@@ -2,8 +2,6 @@
 
 <p align="center"> Welcome to my GitHub, thank you for visiting ! </p>
 
-------------------------
-
 #### About Me:
 
 
