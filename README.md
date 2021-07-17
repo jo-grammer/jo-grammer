@@ -1,6 +1,6 @@
 ### <p align="center"> Hi There! I'm João 👋 </p>
 
-Welcome to my GitHub profile, thank you for visiting !
+<p align="center"> Welcome to my GitHub, thank you for visiting ! </p>
 
 #### About Me:
 
