@@ -1,4 +1,4 @@
-###  Hi There! I'm João 👋
+<p algign="center"> ###  Hi There! I'm João 👋 </p>
 
 Welcome to my GitHub profile, thank you for visiting !
 
