@@ -4,7 +4,8 @@
 
 #### About Me:
 
-I'm a freelancing speciliast, passionate about all things data and how we can extract information from it. I also have a passion for Python programming, ....
+I'm a freelancing specialist, with a passion for Python programming and all things data and how we can derive meaning from it. I also enjoy investigating mysteries, reading books, learning constantly, taking a step back, and finding that “a ha!” moment when I see the big picture.
+
 
 #### Background:
 
@@ -21,14 +22,19 @@ I'm a freelancing speciliast, passionate about all things data and how we can ex
 * ⚡ When I'm not coding, I'm either running or creating playlists
 * 🧉 Yerba Maté is my fuel  
  
+ #### Fun Facts:
+
+* 🕺 I had an urban dance crew in college
+* ⚡ When I'm not coding, I'm either running or creating playlists
+* 🧉 Yerba Maté is my fuel 
  
  
-###### 📫 How to reach me: 
+######  💬 Ask me about anything 👇 : 
 
              👇
 
 * 🕊 [Twitter](https://www.twitter.com/jo_grammer)
-* 💬 Ask me about anything
+
 
 
 
