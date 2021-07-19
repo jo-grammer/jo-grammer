@@ -18,12 +18,19 @@ I'm a freelancing specialist, with a passion for Python programming and all thin
 * 📚 Reading and learning is second nature to me
 
 
-#### Fun Facts:
+#### 🏆 Challenges :
+
+* #66daysofdata
+* Round 2 of #66daysofdata
+* #100daysofcode 
+
+ #### ⚒ Projects:
 
 * 🕺 I had an urban dance crew in college
 * ⚡ When I'm not coding, I'm either running or creating playlists
-* 🧉 Yerba Maté is my fuel  
- 
+* 🧉 Yerba Maté is my fuel 
+
+
  #### Fun Facts:
 
 * 🕺 I had an urban dance crew in college
