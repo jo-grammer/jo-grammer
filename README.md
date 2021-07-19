@@ -48,10 +48,10 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 
 * 🕊 [Twitter](https://www.twitter.com/jo_grammer)
-*  [[params.social]]
+*  [[linkedin]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/jf-whitehead"
+    link = "https://www.linkedin.com/in/jf-whitehead/"
 * Medium
 
 
