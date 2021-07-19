@@ -9,29 +9,29 @@ I have a keen enthusiast for Python programming and all things data and how we c
 
 
 
-#### Background & credentials:
+##### 🎓Credentials:
 
 
-* 🔭 I'm a freelancing specialist, passionate about all things data
-* 🐍 A Python lover
+* 🧿 Certified Badges 
+* 📑 Certificates
 * 📊 An aspiring Data Scientist
 * 📚 Reading and learning is second nature to me
 
 
-#### 🏆 Challenges :
+##### 🏆 Challenges :
 
 * #66daysofdata
 * #66daysofdata - Round 2
 * #100daysofcode 
 
- #### ⚒ Projects:
+##### ⚒ Projects:
 
 * 🕺 I had an urban dance crew in college
 * ⚡ When I'm not coding, I'm either running or creating playlists
 * 🧉 Yerba Maté is my fuel 
 
 
- #### Fun Facts:
+##### Fun Facts:
 
 * 🕺 I had an urban dance crew in college
 * ⚡ When I'm not coding, I'm either running or creating playlists
@@ -43,7 +43,7 @@ I have a keen enthusiast for Python programming and all things data and how we c
 
 
 * 🕊 [Twitter](https://www.twitter.com/jo_grammer)
-
+* LinkedIn
 
 
 
