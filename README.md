@@ -4,6 +4,10 @@
 
 #### About Me:
 
+I'm a freelancing speciliast, passionate about all things data and how we can extract information from it. I also have a passion for Python programming, ....
+
+#### Background:
+
 
 * 🔭 I'm a freelancing specialist, passionate about all things data
 * 🐍 A Python lover
