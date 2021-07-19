@@ -1,21 +1,25 @@
-### <p align="center"> Hi There! I'm João 👋 </p>
+### <p align="center"> Hi There! I'm Jô 👋 </p>
 
 <p align="center"> Welcome to my GitHub ! </p>
 
 #### About Me:
 
-I have a keen enthusiast for Python programming and all things data and how we can derive meaning from it. I also enjoy investigating mysteries, reading books, learning constantly, taking a step back, and finding that “a ha!” moment when I see the big picture.
+I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python programming, languages and all things data and how we can derive meaning from it. I also enjoy investigating mysteries, reading books, learning constantly, taking a step back, and finding that “a ha!” moment when I see the big picture.
 
 
 
 
-##### 🎓Credentials:
+##### 🎓Academic Background:
 
-
+* 📚 Bachelor's degree, Applied Foreign Languages and Economy
+* 📑 Professional Certifications
 * 🧿 Certified Badges 
-* 📑 Certificates
-* 📊 An aspiring Data Scientist
-* 📚 Reading and learning is second nature to me
+
+##### ⚒ Projects:
+
+* To define
+* To define
+* To define
 
 
 ##### 🏆 Challenges :
@@ -24,18 +28,19 @@ I have a keen enthusiast for Python programming and all things data and how we c
 * #66daysofdata - Round 2
 * #100daysofcode 
 
-##### ⚒ Projects:
+##### 🏅Competitions:
 
-* 🕺 I had an urban dance crew in college
-* ⚡ When I'm not coding, I'm either running or creating playlists
-* 🧉 Yerba Maté is my fuel 
+* to define
+* to define
+* to define
 
 
 ##### Fun Facts:
 
-* 🕺 I had an urban dance crew in college
-* ⚡ When I'm not coding, I'm either running or creating playlists
 * 🧉 Yerba Maté is my fuel 
+* 🕺 I had an urban dance crew in college
+* ⚡I love running and working on playlist
+ 
  
  
 ######  💬 Ask me about anything 👇 : 
@@ -44,6 +49,7 @@ I have a keen enthusiast for Python programming and all things data and how we c
 
 * 🕊 [Twitter](https://www.twitter.com/jo_grammer)
 * LinkedIn
+* Medium
 
 
 
