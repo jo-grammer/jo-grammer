@@ -48,7 +48,9 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 
 * 🕊 [Twitter](https://www.twitter.com/jo_grammer)
-* <button href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn </button> (https://www.linkedin.com/in/jf-whitehead)
+* <button>
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Submit Form">
+</button> (https://www.linkedin.com/in/jf-whitehead)
 * Medium
 
 
