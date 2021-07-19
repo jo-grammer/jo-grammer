@@ -9,7 +9,7 @@ I'm a freelancing specialist, with a passion for Python programming and all thin
 
 
 
-#### Background:
+#### Background & credentials:
 
 
 * 🔭 I'm a freelancing specialist, passionate about all things data
@@ -21,7 +21,7 @@ I'm a freelancing specialist, with a passion for Python programming and all thin
 #### 🏆 Challenges :
 
 * #66daysofdata
-* Round 2 of #66daysofdata
+* #66daysofdata - Round 2
 * #100daysofcode 
 
  #### ⚒ Projects:
