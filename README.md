@@ -53,7 +53,7 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 🕊 [Twitter](https://www.twitter.com/jo_grammer)
 
-[Medium](https://medium.com/@jo.grammer)
+📰 [Medium](https://medium.com/@jo.grammer)
 
 
 
