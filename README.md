@@ -4,7 +4,7 @@
 
 #### About Me:
 
-I'm a freelancing specialist, with a passion for Python programming and all things data and how we can derive meaning from it. I also enjoy investigating mysteries, reading books, learning constantly, taking a step back, and finding that “a ha!” moment when I see the big picture.
+I have a keen enthusiast for Python programming and all things data and how we can derive meaning from it. I also enjoy investigating mysteries, reading books, learning constantly, taking a step back, and finding that “a ha!” moment when I see the big picture.
 
 
 
