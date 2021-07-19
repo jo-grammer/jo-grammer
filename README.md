@@ -48,7 +48,7 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 
 * 🕊 [Twitter](https://www.twitter.com/jo_grammer)
-*  ["LinkedIn"](https://www.linkedin.com/in/jf-whitehead)
+*  [LinkedIn](https://www.linkedin.com/in/jf-whitehead)
 * Medium
 
 
