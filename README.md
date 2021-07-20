@@ -13,7 +13,7 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 * 📚 Bachelor's degree, Applied Foreign Languages and Economy
 * 📑 Professional Certifications
-* 🧿 Certified Badges 
+* 🧿 [Certified Badges](https://www.credly.com/users/joao-felipe-whitehead/badges)
 
 ##### ⚒ Projects:
 
