@@ -26,7 +26,8 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 * #66daysofdata
 * #66daysofdata - Round 2
-* #100daysofcode 
+* #100daysofcode
+* #4weeksofML 
 
 ##### 🏅Competitions:
 
@@ -39,7 +40,7 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 * 🧉 Yerba Maté is my fuel 
 * 🕺 I had an urban dance crew in college
-* ⚡I love running and working on playlist
+* ⚡I love running and working on music playlist
  
  
  
