@@ -26,7 +26,7 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 * #66daysofdata
 * #66daysofdata - Round 2
-* #100daysofcode
+* [#100daysofcode](https://github.com/jo-grammer/100daysofcode)
 * #4weeksofML 
 
 ##### 🏅Competitions:
