@@ -44,7 +44,7 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
  
  
  
-######  💬 Ask me about anything 👇 : 
+#####  💬 Ask me about anything 👇 : 
 
 
 
