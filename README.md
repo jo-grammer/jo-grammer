@@ -4,6 +4,8 @@
 
 
 [![Jô's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-grammer)](https://github.com/jo-grammer/github-readme-stats)
+![Jô's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-grammer&show_icons=true)
+
 
 
 #### About Me:
