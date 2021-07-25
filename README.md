@@ -9,9 +9,9 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 
 
-<a > < align="center" src=
-[![Jô's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-grammer&show_icons=true&theme=onedark)](https://github.com/jo-grammer/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-grammer&layout=compact&theme=onedark)](https://github.com/jo-grammer/github-readme-stats) 
+<a > <align="center"
+src= "[![Jô's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-grammer&show_icons=true&theme=onedark)](https://github.com/jo-grammer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-grammer&layout=compact&theme=onedark)](https://github.com/jo-grammer/github-readme-stats)" 
 
   /> </a>
 
