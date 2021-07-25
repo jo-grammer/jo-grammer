@@ -17,6 +17,9 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-grammer&layout=compact&theme=onedark)](https://github.com/jo-grammer/github-readme-stats) 
 
 
+ - - - -
+
+
 ##### 🎓Academic Background:
 
 * 📚 Bachelor's degree, Applied Foreign Languages and Economy
