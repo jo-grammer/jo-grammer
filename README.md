@@ -8,6 +8,9 @@ I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python prog
 
 
 
+[![Jô's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-grammer)](https://github.com/jo-grammer/github-readme-stats)
+
+
 
 ##### 🎓Academic Background:
 
