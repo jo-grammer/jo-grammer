@@ -8,6 +8,14 @@
 I am a self-taught Data Scientist/Analyst with a keen enthusiasm for Python programming, languages and how we can derive meaning from data in order to make decisions from it. I also enjoy investigating mysteries, reading books, learning constantly, taking a step back, and finding that “a ha!” moment when I see the big picture.
 
 
+<a href="https://github.com/jo-grammer/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jo-grammer&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/jo-grammer/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jo-grammer&repo=convoychat" />
+</a>
+
+
 [![Jô's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-grammer&show_icons=true&theme=onedark)](https://github.com/jo-grammer/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-grammer&layout=compact&theme=onedark)](https://github.com/jo-grammer/github-readme-stats)
 
