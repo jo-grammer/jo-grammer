@@ -37,7 +37,7 @@
 ##### 🏆 Challenges :
 
 * [#66daysofdata](https://github.com/jo-grammer/66daysofdata)
-* #66daysofdata - Round 2
+* [#66daysofdata - Round 2](https://github.com/jo-grammer/66daysofdata-Round2)
 * [#100daysofcode](https://github.com/jo-grammer/100daysofcode)
 * #4weeksofML 
 
