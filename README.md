@@ -52,7 +52,7 @@
 
 * 🧉 Yerba Maté is my fuel 
 * 🕺 I had an urban dance crew in college
-* ⚡I love running and working on music playlist
+* ⚡I love running and working on music playlists
  
  
  
