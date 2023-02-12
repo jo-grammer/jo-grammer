@@ -29,9 +29,9 @@
 
 ##### ⚒ Projects:
 
-* To define
-* To define
-* To define
+* Coming soon
+* Coming soon
+* Coming soon
 
 
 ##### 🏆 Challenges :
@@ -43,9 +43,9 @@
 
 ##### 🏅Competitions:
 
-* to define
-* to define
-* to define
+* Coming soon
+* Coming soon
+* Coming soon
 
 
 ##### Fun Facts:
